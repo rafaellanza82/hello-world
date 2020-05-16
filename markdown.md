@@ -51,6 +51,6 @@ HTML CODE
 
 ## IMAGES
 
-<img src="https://images.app.goo.gl/rcfYdYSTqFvfKYxP9">
-<img src="images/2017-09-13-Kali-2-1080x675.jpg">
-images/2017-09-13-Kali-2-1080x675.jpg
+![](images/2017-09-13-Kali-2-1080x675.jpg)
+<img src="images/2017-09-13-Kali-2-1080x675.jpg" width="200">
+
