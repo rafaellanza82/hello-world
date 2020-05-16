@@ -48,3 +48,8 @@ HTML CODE
 |col1|col2|col3|
 |----|----|----|
 |    |    |    |
+
+## IMAGES
+
+<img scr="https://images.app.goo.gl/rcfYdYSTqFvfKYxP9">
+<img scr="/images/2017-09-13-Kali-2-1080x675.jpg">
